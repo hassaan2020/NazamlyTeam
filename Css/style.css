@@ -264,14 +264,14 @@ footer a{
 @media only screen and (max-width: 600px){
     .carousel .carousel-inner .carousel-item .w-100 {
         width: 100% !important;
-        height: 300px;
+        height: 200px;
     }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 992px){
     .carousel .carousel-inner .carousel-item .w-100 {
         width: 100% !important;
-        height: 400px;
+        height: 300px;
     }
     .our_team .slider_team .feat_slidr .name{
         font-size: 1.2vw;
